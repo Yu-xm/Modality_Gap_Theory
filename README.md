@@ -56,6 +56,7 @@
 
 # 📢 News
 
+- **`2025.05.11`** 📝 We release the paper `Anisotropic Modality Align`. [[PAPER](https://arxiv.org/abs/2605.07825)]. We will open-source the code as soon as possible.
 - **`2026.02.09`** 💡 **Highlight:** Please check the [Core Insight](#core-insight) section! We explain how ReAlign enables **efficient scaling** by decoupling dependence on multimodal paired data.
 - **`2026.02.02`** 🏖️ **NOTE:** The author is currently on a journey and will address the To-Do items upon return.
 - **`2026.02.02`** ✨ We release the code of the ReVision. Try training!
